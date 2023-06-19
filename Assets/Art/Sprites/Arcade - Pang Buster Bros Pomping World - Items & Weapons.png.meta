@@ -1,0 +1,6190 @@
+fileFormatVersion: 2
+guid: 3790fbed38000ef46b7ec1bf359ee773
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3947934019959010665
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_0
+  - first:
+      213: 7361666228226860449
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_1
+  - first:
+      213: 5332620178225666657
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_2
+  - first:
+      213: 4115692656375297765
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_3
+  - first:
+      213: 8524418484444580751
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_4
+  - first:
+      213: 3611041396122265524
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_5
+  - first:
+      213: 2749709355563412680
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_6
+  - first:
+      213: -7502657224206971807
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_7
+  - first:
+      213: -5837036124073570958
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_8
+  - first:
+      213: -1737303731971862513
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_9
+  - first:
+      213: -63179923930415823
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_10
+  - first:
+      213: 6029585287838930020
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_11
+  - first:
+      213: 6442594719332115244
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_12
+  - first:
+      213: 9210048852974020369
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_13
+  - first:
+      213: 2200204379739495570
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_14
+  - first:
+      213: 1705013009089032885
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_15
+  - first:
+      213: -2829614091987130534
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_16
+  - first:
+      213: -7538768367054631797
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_17
+  - first:
+      213: -2608648734173960877
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_18
+  - first:
+      213: -3572883680185976126
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_19
+  - first:
+      213: -9186193788287904121
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_20
+  - first:
+      213: 3411079369493509817
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_21
+  - first:
+      213: -35123616878121579
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_22
+  - first:
+      213: -8138367517206105121
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_23
+  - first:
+      213: -788116001742490885
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_24
+  - first:
+      213: -1649385363398482184
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_25
+  - first:
+      213: -6686370088270726047
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_26
+  - first:
+      213: -1358698180734826042
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_27
+  - first:
+      213: 3926706520163152470
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_28
+  - first:
+      213: 9020174064536023693
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_29
+  - first:
+      213: -1427857255933622665
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_30
+  - first:
+      213: -1500284667201864232
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_31
+  - first:
+      213: -4220212137126670094
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_32
+  - first:
+      213: -6575814452200967011
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_33
+  - first:
+      213: 1722130224518441212
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_34
+  - first:
+      213: -436437464645461513
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_35
+  - first:
+      213: -4048563558346735730
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_36
+  - first:
+      213: 7184956163129781230
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_37
+  - first:
+      213: 6996731970852724603
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_38
+  - first:
+      213: 7377289962457394377
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_39
+  - first:
+      213: 2753113790750631298
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_40
+  - first:
+      213: 8619987720352613513
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_41
+  - first:
+      213: -4740276694057932064
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_42
+  - first:
+      213: -9164942493146613620
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_43
+  - first:
+      213: 6059897399219893707
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_44
+  - first:
+      213: 8616995354944417717
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_45
+  - first:
+      213: 6590525645014374180
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_46
+  - first:
+      213: -1529716347738994498
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_47
+  - first:
+      213: 1758903416640467621
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_48
+  - first:
+      213: 7684545507056902094
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_49
+  - first:
+      213: -5038189090739087476
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_50
+  - first:
+      213: 377568086406815494
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_51
+  - first:
+      213: 3775528838472160895
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_52
+  - first:
+      213: -1597475474630745972
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_53
+  - first:
+      213: 5799321617618874105
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_54
+  - first:
+      213: -1123196895668763850
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_55
+  - first:
+      213: -6580443514621021774
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_56
+  - first:
+      213: 811220743326003492
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_57
+  - first:
+      213: 5356968725345631202
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_58
+  - first:
+      213: -5568659915630354024
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_59
+  - first:
+      213: -546975558741927592
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_60
+  - first:
+      213: -6841500823601367680
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_61
+  - first:
+      213: 2667306821359976882
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_62
+  - first:
+      213: -1148473987840340600
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_63
+  - first:
+      213: -5981927848212287535
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_64
+  - first:
+      213: 81942545406216720
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_65
+  - first:
+      213: -2836317416048732158
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_66
+  - first:
+      213: 1187427677508230778
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_67
+  - first:
+      213: -1040560242725814705
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_68
+  - first:
+      213: 3942453209974505040
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_69
+  - first:
+      213: 8785869950638027657
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_70
+  - first:
+      213: -1163493887159508662
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_71
+  - first:
+      213: 5201688841574574333
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_72
+  - first:
+      213: -8328885821669748075
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_73
+  - first:
+      213: -3985905604899304810
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_74
+  - first:
+      213: 2405020139042592358
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_75
+  - first:
+      213: 5557252253987677410
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_76
+  - first:
+      213: -2275277856167399807
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_77
+  - first:
+      213: 7406183815421941941
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_78
+  - first:
+      213: 1338912578957505818
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_79
+  - first:
+      213: -2379615972771234399
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_80
+  - first:
+      213: 1306121205374181660
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_81
+  - first:
+      213: 5579588038423683975
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_82
+  - first:
+      213: -6697221439886347502
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_83
+  - first:
+      213: -4642249560393283778
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_84
+  - first:
+      213: 1443790508316074777
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_85
+  - first:
+      213: -8142243352914157684
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_86
+  - first:
+      213: 958305621990592371
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_87
+  - first:
+      213: -6222482521384539516
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_88
+  - first:
+      213: 4003801262768846128
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_89
+  - first:
+      213: -160644646211082272
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_90
+  - first:
+      213: 739650256256315659
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_91
+  - first:
+      213: 7977954431233971551
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_92
+  - first:
+      213: 1567815590875107355
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_93
+  - first:
+      213: 5466301616764059783
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_94
+  - first:
+      213: 365389945170283737
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_95
+  - first:
+      213: -5757710331061135358
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_96
+  - first:
+      213: 4862418473670885591
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_97
+  - first:
+      213: -3966906067840477240
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_98
+  - first:
+      213: -6241620705665239024
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_99
+  - first:
+      213: 484691474102556420
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_100
+  - first:
+      213: -7969141394278554231
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_101
+  - first:
+      213: 4051356619839948510
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_102
+  - first:
+      213: 823255024868204520
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_103
+  - first:
+      213: 1010476440399137597
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_104
+  - first:
+      213: 1910135132158650100
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_105
+  - first:
+      213: 4908243064046545129
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_106
+  - first:
+      213: -5355646265374853048
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_107
+  - first:
+      213: 2965432911071590185
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_108
+  - first:
+      213: -1179733389372157230
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_109
+  - first:
+      213: -7459507867010801837
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_110
+  - first:
+      213: 3490567140019654828
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_111
+  - first:
+      213: -7222035993827869360
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_112
+  - first:
+      213: 1820678464228499042
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_113
+  - first:
+      213: -8937412575284874642
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_114
+  - first:
+      213: 5911973778709683773
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_115
+  - first:
+      213: 3543506144679980206
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_116
+  - first:
+      213: -7374873467910243826
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_117
+  - first:
+      213: -4276319820696946196
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_118
+  - first:
+      213: -6629409312894441783
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_119
+  - first:
+      213: -8469052808593295180
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_120
+  - first:
+      213: 3491250121239266266
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_121
+  - first:
+      213: -5365976692104191271
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_122
+  - first:
+      213: -4159653214672831417
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_123
+  - first:
+      213: 837845016878635910
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_124
+  - first:
+      213: 4317141754834219767
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_125
+  - first:
+      213: -8552980111780376185
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_126
+  - first:
+      213: -1900281757291834543
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_127
+  - first:
+      213: 5943039971957977636
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_128
+  - first:
+      213: -8762246613448916692
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_129
+  - first:
+      213: -4206849227178347151
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_130
+  - first:
+      213: 7625761825210904242
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_131
+  - first:
+      213: 400590157480112593
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_132
+  - first:
+      213: 5409186516911361482
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_133
+  - first:
+      213: -3212157439238372840
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_134
+  - first:
+      213: -3581336396159523899
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_135
+  - first:
+      213: -2394422804685060112
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_136
+  - first:
+      213: -7213242115797315301
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_137
+  - first:
+      213: -6731815913952923719
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_138
+  - first:
+      213: 7247218557390811514
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_139
+  - first:
+      213: 4260758863894233691
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_140
+  - first:
+      213: 7307344818769575331
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_141
+  - first:
+      213: 725023048994361012
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_142
+  - first:
+      213: 3835823633432790305
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_143
+  - first:
+      213: -3070315224118449002
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_144
+  - first:
+      213: 1447005207054704253
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_145
+  - first:
+      213: -334067961315840979
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_146
+  - first:
+      213: -595409381360369654
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_147
+  - first:
+      213: -431605395853478447
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_148
+  - first:
+      213: -3278210090307128131
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_149
+  - first:
+      213: -2843404350727590744
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_150
+  - first:
+      213: -6045435159442611912
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_151
+  - first:
+      213: 5577104845940873140
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_152
+  - first:
+      213: -1329998396438007338
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_153
+  - first:
+      213: 2570523311473096505
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_154
+  - first:
+      213: 4040549290778616772
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_155
+  - first:
+      213: -5269807169360158773
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_156
+  - first:
+      213: -1948897945990692125
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_157
+  - first:
+      213: 5615748212848073382
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_158
+  - first:
+      213: 3564568952645894803
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_159
+  - first:
+      213: 4754729740367657947
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_160
+  - first:
+      213: 5620949896710786314
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_161
+  - first:
+      213: 4151810486436296691
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_162
+  - first:
+      213: -390972807927837939
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_163
+  - first:
+      213: 3353933509000807341
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_164
+  - first:
+      213: -1158145719381083169
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_165
+  - first:
+      213: -4137560219890842229
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_166
+  - first:
+      213: 521369801588509629
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_167
+  - first:
+      213: 644059337458984877
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_168
+  - first:
+      213: 4649597046996885488
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_169
+  - first:
+      213: -1171407606271448285
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_170
+  - first:
+      213: -5521538778641524544
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_171
+  - first:
+      213: 7248320976109371112
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_172
+  - first:
+      213: 5051259078945048475
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_173
+  - first:
+      213: -1300826118374927233
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_174
+  - first:
+      213: -8926615703740524794
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_175
+  - first:
+      213: 718428556538501330
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_176
+  - first:
+      213: 1281504638329659610
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_177
+  - first:
+      213: -20965871678883001
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_178
+  - first:
+      213: 9016109256947723162
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_179
+  - first:
+      213: -3879097844497280179
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_180
+  - first:
+      213: 7191564931196428549
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_181
+  - first:
+      213: 6209962708712946803
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_182
+  - first:
+      213: -8566474819652759953
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_183
+  - first:
+      213: 6656389399239459641
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_184
+  - first:
+      213: -7552321264913485037
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_185
+  - first:
+      213: 5956147759803667587
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_186
+  - first:
+      213: -5778736897741825605
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_187
+  - first:
+      213: -8254232474259834400
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_188
+  - first:
+      213: -4171480910230602828
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_189
+  - first:
+      213: 3909530397124214483
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_190
+  - first:
+      213: 6033537127275653728
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_191
+  - first:
+      213: -74136798270629252
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_192
+  - first:
+      213: -5671729380418693875
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_193
+  - first:
+      213: -3181630501290646288
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_194
+  - first:
+      213: -941313958110517720
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_195
+  - first:
+      213: -7071400282539393401
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_196
+  - first:
+      213: -4812170078273279453
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_197
+  - first:
+      213: -1805352283739446023
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_198
+  - first:
+      213: 3142848015091427350
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_199
+  - first:
+      213: 8015997438269732475
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_200
+  - first:
+      213: 5385991573696674606
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_201
+  - first:
+      213: -8719681729527642596
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_202
+  - first:
+      213: 3444297087120609621
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_203
+  - first:
+      213: -7938479403370355494
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_204
+  - first:
+      213: -1922975878178925426
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_205
+  - first:
+      213: 6137644016873842821
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_206
+  - first:
+      213: -2864676997569375952
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_207
+  - first:
+      213: -4078968762060426892
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_208
+  - first:
+      213: -8475217663867442180
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_209
+  - first:
+      213: -4482332314667390189
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_210
+  - first:
+      213: -1851202405839329306
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_211
+  - first:
+      213: 2506124724157843519
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_212
+  - first:
+      213: 594084874919857957
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_213
+  - first:
+      213: 972075935231861323
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_214
+  - first:
+      213: 3607583162615333290
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_215
+  - first:
+      213: -8909341015358617859
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_216
+  - first:
+      213: -8468698444350214980
+    second: Arcade - Pang Buster Bros Pomping World - Items & Weapons_217
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1687
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9653658f211e9c630800000000000000
+      internalID: 3947934019959010665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1687
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a5a3784e64e92660800000000000000
+      internalID: 7361666228226860449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_2
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1687
+        width: 16
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16a98357cc5410a40800000000000000
+      internalID: 5332620178225666657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_3
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1647
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e6fee34aa0ed1930800000000000000
+      internalID: 4115692656375297765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_4
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1647
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8bc7128271dc4670800000000000000
+      internalID: 8524418484444580751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_5
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1647
+        width: 15
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b72915840ffc1230800000000000000
+      internalID: 3611041396122265524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_6
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1647
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cceced171ee82620800000000000000
+      internalID: 2749709355563412680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_7
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1495
+        width: 5
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16c00af510531e790800000000000000
+      internalID: -7502657224206971807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_8
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1647
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27dc873329eaefea0800000000000000
+      internalID: -5837036124073570958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_9
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1607
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f005bdcd57bd3e7e0800000000000000
+      internalID: -1737303731971862513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_10
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1607
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13df035a13a8f1ff0800000000000000
+      internalID: -63179923930415823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_11
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1607
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4649f888fd36da350800000000000000
+      internalID: 6029585287838930020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1607
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c23299d43c1b86950800000000000000
+      internalID: 6442594719332115244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_13
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1607
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 117a28582aaa0df70800000000000000
+      internalID: 9210048852974020369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_14
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1607
+        width: 22
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29c91a7e932b88e10800000000000000
+      internalID: 2200204379739495570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_15
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1551
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b2fb285c4c69a710800000000000000
+      internalID: 1705013009089032885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_16
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1551
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a57eaaba9f03bb8d0800000000000000
+      internalID: -2829614091987130534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_17
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1266
+        width: 8
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8cc1cdbc1ae06790800000000000000
+      internalID: -7538768367054631797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_18
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1551
+        width: 32
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 355e9c72cc73ccbd0800000000000000
+      internalID: -2608648734173960877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_19
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1551
+        width: 14
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ca79ba09319a6ec0800000000000000
+      internalID: -3572883680185976126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_20
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1551
+        width: 14
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 786133b8b65148080800000000000000
+      internalID: -9186193788287904121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_21
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1551
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b6f2572d96965f20800000000000000
+      internalID: 3411079369493509817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_22
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1495
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59da0cca147338ff0800000000000000
+      internalID: -35123616878121579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_23
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1495
+        width: 6
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd33a5dacd5be0f80800000000000000
+      internalID: -8138367517206105121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_24
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1495
+        width: 16
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf2765a0cac0015f0800000000000000
+      internalID: -788116001742490885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_25
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1495
+        width: 16
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f6a7e430c43c19e0800000000000000
+      internalID: -1649385363398482184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_26
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1495
+        width: 4
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16c73d3a4dd3533a0800000000000000
+      internalID: -6686370088270726047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_27
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1495
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c9c45c043fe42de0800000000000000
+      internalID: -1358698180734826042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1495
+        width: 4
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 652f88786c67e7630800000000000000
+      internalID: 3926706520163152470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_29
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1495
+        width: 4
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d827cd055881e2d70800000000000000
+      internalID: 9020174064536023693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_30
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1495
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 776cc1e046b3f2ce0800000000000000
+      internalID: -1427857255933622665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_31
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1495
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ddb7754b0bed2be0800000000000000
+      internalID: -1500284667201864232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_32
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1495
+        width: 3
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f0d5c1cb6bce65c0800000000000000
+      internalID: -4220212137126670094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_33
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1425
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d947eab88930eb4a0800000000000000
+      internalID: -6575814452200967011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_34
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1423
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf8a261a05c36e710800000000000000
+      internalID: 1722130224518441212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_35
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1424
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f99221307671f9f0800000000000000
+      internalID: -436437464645461513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_36
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1423
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8fb626d4ec90d7c0800000000000000
+      internalID: -4048563558346735730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_37
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1266
+        width: 8
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eebaa16109716b360800000000000000
+      internalID: 7184956163129781230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_38
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1431
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7f9b4f38a2691160800000000000000
+      internalID: 6996731970852724603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_39
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1266
+        width: 8
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cce3516226616660800000000000000
+      internalID: 7377289962457394377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_40
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1234
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 285abe3f766053620800000000000000
+      internalID: 2753113790750631298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_41
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1234
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 984c8d7392950a770800000000000000
+      internalID: 8619987720352613513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_42
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1385
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ea2d993677273eb0800000000000000
+      internalID: -4740276694057932064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_43
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1385
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c88fc154c559fc080800000000000000
+      internalID: -9164942493146613620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_44
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1385
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc5b0dfe394191450800000000000000
+      internalID: 6059897399219893707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_45
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1385
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf27aade97b59770800000000000000
+      internalID: 8616995354944417717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_46
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1385
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4271f22f720467b50800000000000000
+      internalID: 6590525645014374180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_47
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1385
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb8c8e5261b55cae0800000000000000
+      internalID: -1529716347738994498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_48
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1385
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a2731f9651e86810800000000000000
+      internalID: 1758903416640467621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_49
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1385
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf53789c6df4aa60800000000000000
+      internalID: 7684545507056902094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_50
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1322
+        width: 32
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c879f3727b1c41ab0800000000000000
+      internalID: -5038189090739087476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_51
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1322
+        width: 32
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f5dc49c246d3500800000000000000
+      internalID: 377568086406815494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_52
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1322
+        width: 32
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f765068997f556430800000000000000
+      internalID: 3775528838472160895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_53
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1266
+        width: 9
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c806c350580a4d9e0800000000000000
+      internalID: -1597475474630745972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_54
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1266
+        width: 9
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9feaa6cf8445b7050800000000000000
+      internalID: 5799321617618874105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_55
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1266
+        width: 9
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63387d4df5a9960f0800000000000000
+      internalID: -1123196895668763850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_56
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1266
+        width: 8
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b1bd76fc719da4a0800000000000000
+      internalID: -6580443514621021774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_57
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1266
+        width: 8
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 421ff50d7f8024b00800000000000000
+      internalID: 811220743326003492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_58
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1266
+        width: 8
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eb7a1b5ca6c75a40800000000000000
+      internalID: 5356968725345631202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_59
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1266
+        width: 8
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89165ed8f4528b2b0800000000000000
+      internalID: -5568659915630354024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_60
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1266
+        width: 8
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 859dd5890a0c868f0800000000000000
+      internalID: -546975558741927592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_61
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1266
+        width: 8
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 085b2beaf3b1e01a0800000000000000
+      internalID: -6841500823601367680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_62
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1234
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b1432a0c6d240520800000000000000
+      internalID: 2667306821359976882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_63
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1234
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88d00013efccf00f0800000000000000
+      internalID: -1148473987840340600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_64
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1234
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1df2a4fc05cebfca0800000000000000
+      internalID: -5981927848212287535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_65
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1202
+        width: 16
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01acde69f4e132100800000000000000
+      internalID: 81942545406216720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_66
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1202
+        width: 16
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 208592a665063a8d0800000000000000
+      internalID: -2836317416048732158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_67
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1202
+        width: 16
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7e58527e279a7010800000000000000
+      internalID: 1187427677508230778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_68
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1206
+        width: 5
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4efeece8ff2f81f0800000000000000
+      internalID: -1040560242725814705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_69
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1170
+        width: 24
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05ef0247e4866b630800000000000000
+      internalID: 3942453209974505040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_70
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1138
+        width: 32
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 983fe8aab2eade970800000000000000
+      internalID: 8785869950638027657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_71
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1170
+        width: 24
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a41e48d59707adfe0800000000000000
+      internalID: -1163493887159508662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_72
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1138
+        width: 32
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df86a22117c103840800000000000000
+      internalID: 5201688841574574333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_73
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1170
+        width: 24
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5925698397ad96c80800000000000000
+      internalID: -8328885821669748075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_74
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1170
+        width: 24
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69a0db778f73fa8c0800000000000000
+      internalID: -3985905604899304810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_75
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1138
+        width: 32
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6665b49f219506120800000000000000
+      internalID: 2405020139042592358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_76
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1170
+        width: 24
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e4ac2e3b735f1d40800000000000000
+      internalID: 5557252253987677410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_77
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1138
+        width: 32
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18e64d148d69c60e0800000000000000
+      internalID: -2275277856167399807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_78
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1138
+        width: 32
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b8d873c0fc08c660800000000000000
+      internalID: 7406183815421941941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_79
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1138
+        width: 32
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a15701e85e5c49210800000000000000
+      internalID: 1338912578957505818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_80
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1138
+        width: 32
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1adff1961e7e9fed0800000000000000
+      internalID: -2379615972771234399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_81
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1108
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c11eeefe056402210800000000000000
+      internalID: 1306121205374181660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_82
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1107
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 783234f42cdae6d40800000000000000
+      internalID: 5579588038423683975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_83
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1106
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 213b1757590be03a0800000000000000
+      internalID: -6697221439886347502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_84
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1067
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e378b0ade9a639fb0800000000000000
+      internalID: -4642249560393283778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_85
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1070
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 913a24a51df590410800000000000000
+      internalID: 1443790508316074777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_86
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1067
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8f14ca5fc0f00f80800000000000000
+      internalID: -8142243352914157684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_87
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1066
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37f4209c2e59c4d00800000000000000
+      internalID: 958305621990592371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_88
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1014
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48a2ccb6d1d45a9a0800000000000000
+      internalID: -6222482521384539516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_89
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1023
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 035f892190c509730800000000000000
+      internalID: 4003801262768846128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_90
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1014
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e7258f9b8645cdf0800000000000000
+      internalID: -160644646211082272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_91
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1012
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b013f2e3df3c34a00800000000000000
+      internalID: 739650256256315659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_92
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 944
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5554f3494367be60800000000000000
+      internalID: 7977954431233971551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_93
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 952
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b101e6729fff1c510800000000000000
+      internalID: 1567815590875107355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_94
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 945
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7808d56db543cdb40800000000000000
+      internalID: 5466301616764059783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_95
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 942
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dccf5e1830221500800000000000000
+      internalID: 365389945170283737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_96
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 942
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2081185a5f08810b0800000000000000
+      internalID: -5757710331061135358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_97
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 942
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d04370f6d7ca7340800000000000000
+      internalID: 4862418473670885591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_98
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 942
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c7d609e2f7b2f8c0800000000000000
+      internalID: -3966906067840477240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_99
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 817
+        width: 9
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 018b918a90f4169a0800000000000000
+      internalID: -6241620705665239024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_100
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 817
+        width: 9
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4071b83e358f9b600800000000000000
+      internalID: 484691474102556420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_101
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 817
+        width: 9
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9856a2dcf1ce76190800000000000000
+      internalID: -7969141394278554231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_102
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 817
+        width: 9
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed6ccf7716f493830800000000000000
+      internalID: 4051356619839948510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_103
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 817
+        width: 9
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ef13d4551acc6b00800000000000000
+      internalID: 823255024868204520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_104
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 817
+        width: 9
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b44e308fee50e00800000000000000
+      internalID: 1010476440399137597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_105
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 817
+        width: 9
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f66f4948c9228a10800000000000000
+      internalID: 1910135132158650100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_106
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 817
+        width: 9
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e8e4cfcf059d1440800000000000000
+      internalID: 4908243064046545129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_107
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 817
+        width: 9
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8483fa9d81ceca5b0800000000000000
+      internalID: -5355646265374853048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_108
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 817
+        width: 9
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 927bca56585572920800000000000000
+      internalID: 2965432911071590185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_109
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 817
+        width: 9
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d21ecc9bbeb0afe0800000000000000
+      internalID: -1179733389372157230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_110
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 817
+        width: 9
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35fd69bfd118a7890800000000000000
+      internalID: -7459507867010801837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_111
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 817
+        width: 9
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca0d58de15cf07030800000000000000
+      internalID: 3490567140019654828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_112
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 817
+        width: 9
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05dfdc0178c26cb90800000000000000
+      internalID: -7222035993827869360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_113
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 817
+        width: 9
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e1b86ba69544910800000000000000
+      internalID: 1820678464228499042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_114
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 817
+        width: 9
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e62390f7d9ee7f380800000000000000
+      internalID: -8937412575284874642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_115
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 817
+        width: 9
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3e1a6924dc8b0250800000000000000
+      internalID: 5911973778709683773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_116
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 817
+        width: 9
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eac601570101d2130800000000000000
+      internalID: 3543506144679980206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_117
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 817
+        width: 9
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0ab1c997af27a990800000000000000
+      internalID: -7374873467910243826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_118
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 817
+        width: 9
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce9756da7c577a4c0800000000000000
+      internalID: -4276319820696946196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_119
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 817
+        width: 9
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c6a242aa5b9ff3a0800000000000000
+      internalID: -6629409312894441783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_120
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 817
+        width: 9
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b8b5cf6751e77a80800000000000000
+      internalID: -8469052808593295180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_121
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 817
+        width: 9
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad38182ec79637030800000000000000
+      internalID: 3491250121239266266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_122
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 672
+        width: 9
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d2aa12f0a83885b0800000000000000
+      internalID: -5365976692104191271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_123
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 672
+        width: 9
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74c3d96a071f546c0800000000000000
+      internalID: -4159653214672831417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_124
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 672
+        width: 9
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68bd1ef8a9f90ab00800000000000000
+      internalID: 837845016878635910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_125
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 672
+        width: 9
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f276e58d8199eb30800000000000000
+      internalID: 4317141754834219767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_126
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 672
+        width: 9
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 781995a67e5bd4980800000000000000
+      internalID: -8552980111780376185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_127
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 672
+        width: 9
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15317735fc7d0a5e0800000000000000
+      internalID: -1900281757291834543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_128
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 672
+        width: 9
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 422b08eed5be97250800000000000000
+      internalID: 5943039971957977636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_129
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 672
+        width: 9
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c210203212f366680800000000000000
+      internalID: -8762246613448916692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_130
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 672
+        width: 9
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 175786eaae44e95c0800000000000000
+      internalID: -4206849227178347151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_131
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 672
+        width: 9
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2be2e6d1af524d960800000000000000
+      internalID: 7625761825210904242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_132
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 672
+        width: 9
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d1be1530ae2f8500800000000000000
+      internalID: 400590157480112593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_133
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 672
+        width: 9
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acd85506a7a411b40800000000000000
+      internalID: 5409186516911361482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_134
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 672
+        width: 9
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8128197e3df1c63d0800000000000000
+      internalID: -3212157439238372840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_135
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 672
+        width: 9
+        height: 115
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c3ebbdb5898c4ec0800000000000000
+      internalID: -3581336396159523899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_136
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 672
+        width: 9
+        height: 117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f707a4352d45ced0800000000000000
+      internalID: -2394422804685060112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_137
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 672
+        width: 9
+        height: 119
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b119309538a65eb90800000000000000
+      internalID: -7213242115797315301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_138
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 672
+        width: 9
+        height: 122
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bfa38bc719c392a0800000000000000
+      internalID: -6731815913952923719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_139
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 672
+        width: 9
+        height: 124
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a71f5ea61ea439460800000000000000
+      internalID: 7247218557390811514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_140
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 672
+        width: 9
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b52430cbc91412b30800000000000000
+      internalID: 4260758863894233691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_141
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 672
+        width: 9
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ad3d0e8567e86560800000000000000
+      internalID: 7307344818769575331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_142
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 672
+        width: 9
+        height: 131
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4be87492f9ccf0a00800000000000000
+      internalID: 725023048994361012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_143
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 672
+        width: 9
+        height: 133
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1254fc385459b3530800000000000000
+      internalID: 3835823633432790305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_144
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 672
+        width: 9
+        height: 135
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69c22f5229c0465d0800000000000000
+      internalID: -3070315224118449002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_145
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 672
+        width: 9
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7ed2aab19bc41410800000000000000
+      internalID: 1447005207054704253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_146
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 473
+        width: 9
+        height: 140
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2c2eea85f62d5bf0800000000000000
+      internalID: -334067961315840979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_147
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 473
+        width: 9
+        height: 142
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a008410825eacb7f0800000000000000
+      internalID: -595409381360369654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_148
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 473
+        width: 9
+        height: 144
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d5f201ed21a20af0800000000000000
+      internalID: -431605395853478447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_149
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 473
+        width: 9
+        height: 146
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db47424aa457182d0800000000000000
+      internalID: -3278210090307128131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_150
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 473
+        width: 9
+        height: 149
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ace41adec23a88d0800000000000000
+      internalID: -2843404350727590744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_151
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 473
+        width: 9
+        height: 151
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83124c8a0cc4a1ca0800000000000000
+      internalID: -6045435159442611912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_152
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 473
+        width: 9
+        height: 153
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b75a610f4bd56d40800000000000000
+      internalID: 5577104845940873140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_153
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 473
+        width: 9
+        height: 155
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d1397c4185ea8de0800000000000000
+      internalID: -1329998396438007338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_154
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 473
+        width: 9
+        height: 158
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 937f63325555ca320800000000000000
+      internalID: 2570523311473096505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_155
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 473
+        width: 9
+        height: 160
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c3e0561c2ae21830800000000000000
+      internalID: 4040549290778616772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_156
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 473
+        width: 9
+        height: 162
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcf1b73dc42edd6b0800000000000000
+      internalID: -5269807169360158773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_157
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 473
+        width: 9
+        height: 164
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e28cb1d4af14f4e0800000000000000
+      internalID: -1948897945990692125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_158
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 473
+        width: 9
+        height: 167
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa18defe352fed40800000000000000
+      internalID: 5615748212848073382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_159
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 473
+        width: 9
+        height: 169
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39248d79394e77130800000000000000
+      internalID: 3564568952645894803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_160
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 473
+        width: 9
+        height: 171
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdb7999d1813cf140800000000000000
+      internalID: 4754729740367657947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_161
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 473
+        width: 9
+        height: 173
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0d07b56620a10e40800000000000000
+      internalID: 5620949896710786314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_162
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 473
+        width: 9
+        height: 176
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f7f6c2e3a13e9930800000000000000
+      internalID: 4151810486436296691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_163
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 473
+        width: 9
+        height: 178
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0bcf9a7d4cf29af0800000000000000
+      internalID: -390972807927837939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_164
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 473
+        width: 9
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da3c54ca1c09b8e20800000000000000
+      internalID: 3353933509000807341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_165
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 473
+        width: 9
+        height: 182
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdbb626ba907defe0800000000000000
+      internalID: -1158145719381083169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_166
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 473
+        width: 9
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b858e98d6ee6496c0800000000000000
+      internalID: -4137560219890842229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_167
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 473
+        width: 9
+        height: 187
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbb8c4c72174c3700800000000000000
+      internalID: 521369801588509629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_168
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 473
+        width: 9
+        height: 189
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da724871e8820f800800000000000000
+      internalID: 644059337458984877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_169
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 473
+        width: 9
+        height: 191
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ff54fe21efa68040800000000000000
+      internalID: 4649597046996885488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_170
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 348
+        width: 9
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32beffc0df25ebfe0800000000000000
+      internalID: -1171407606271448285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_171
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 348
+        width: 9
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c817853cbd8f53b0800000000000000
+      internalID: -5521538778641524544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_172
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 348
+        width: 9
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eef2074685379460800000000000000
+      internalID: 7248320976109371112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_173
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 348
+        width: 9
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b978cfc9e5da91640800000000000000
+      internalID: 5051259078945048475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_174
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 348
+        width: 9
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7456b3998982fde0800000000000000
+      internalID: -1300826118374927233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_175
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 348
+        width: 9
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6075f1c005a4e1480800000000000000
+      internalID: -8926615703740524794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_176
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 348
+        width: 9
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d859fc37fe58f900800000000000000
+      internalID: 718428556538501330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_177
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 348
+        width: 9
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad0a7a9cda1d8c110800000000000000
+      internalID: 1281504638329659610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_178
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 348
+        width: 9
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74b7c2a96a385bff0800000000000000
+      internalID: -20965871678883001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_179
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 348
+        width: 9
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9bea7c8997af1d70800000000000000
+      internalID: 9016109256947723162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_180
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 348
+        width: 9
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4391c1101daa2ac0800000000000000
+      internalID: -3879097844497280179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_181
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 348
+        width: 9
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 501ae1fc3329dc360800000000000000
+      internalID: 7191564931196428549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_182
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 348
+        width: 9
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37cf1498e283e2650800000000000000
+      internalID: 6209962708712946803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_183
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 348
+        width: 9
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6ec445e984cd1980800000000000000
+      internalID: -8566474819652759953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_184
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 348
+        width: 9
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 933085c34ee306c50800000000000000
+      internalID: 6656389399239459641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_185
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 348
+        width: 9
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 313f33fc2d3c03790800000000000000
+      internalID: -7552321264913485037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_186
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 348
+        width: 9
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38416dc94dc78a250800000000000000
+      internalID: 5956147759803667587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_187
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 348
+        width: 9
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb9d7a7986dcdcfa0800000000000000
+      internalID: -5778736897741825605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_188
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 348
+        width: 9
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e9bf362c43137d80800000000000000
+      internalID: -8254232474259834400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_189
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 348
+        width: 9
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bbb16ea63ceb16c0800000000000000
+      internalID: -4171480910230602828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_190
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 348
+        width: 9
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de3e2fbe21714630800000000000000
+      internalID: 3909530397124214483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_191
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 348
+        width: 9
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06a656adc0e6bb350800000000000000
+      internalID: 6033537127275653728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_192
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 348
+        width: 9
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7a5b4a89fc98fef0800000000000000
+      internalID: -74136798270629252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_193
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 205
+        width: 9
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d055ff9bd28f941b0800000000000000
+      internalID: -5671729380418693875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_194
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 205
+        width: 9
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f4e5048ae398d3d0800000000000000
+      internalID: -3181630501290646288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_195
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 205
+        width: 9
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 826a4b041f7cfe2f0800000000000000
+      internalID: -941313958110517720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_196
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 205
+        width: 9
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78e74aea8e65ddd90800000000000000
+      internalID: -7071400282539393401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_197
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 205
+        width: 9
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32ae1cd4fccb73db0800000000000000
+      internalID: -4812170078273279453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_198
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 205
+        width: 9
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f42541c9a912f6e0800000000000000
+      internalID: -1805352283739446023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_199
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 205
+        width: 9
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 618e0924e93ad9b20800000000000000
+      internalID: 3142848015091427350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_200
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 205
+        width: 9
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b763284133b8e3f60800000000000000
+      internalID: 8015997438269732475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_201
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 205
+        width: 9
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2bff61dcc2eeba40800000000000000
+      internalID: 5385991573696674606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_202
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 205
+        width: 9
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c168a057aa77df680800000000000000
+      internalID: -8719681729527642596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_203
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 205
+        width: 9
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5519cbab3f99ccf20800000000000000
+      internalID: 3444297087120609621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_204
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 205
+        width: 9
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad4ea51ea0bd4d190800000000000000
+      internalID: -7938479403370355494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_205
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 205
+        width: 9
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e84108d80a73055e0800000000000000
+      internalID: -1922975878178925426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_206
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 205
+        width: 9
+        height: 115
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5882197f6ba4d2550800000000000000
+      internalID: 6137644016873842821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_207
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 205
+        width: 9
+        height: 117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03115abc27f9e38d0800000000000000
+      internalID: -2864676997569375952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_208
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 205
+        width: 9
+        height: 119
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 471397fa5879467c0800000000000000
+      internalID: -4078968762060426892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_209
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 205
+        width: 9
+        height: 122
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfba017307af16a80800000000000000
+      internalID: -8475217663867442180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_210
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 205
+        width: 9
+        height: 124
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31beefa128e8bc1c0800000000000000
+      internalID: -4482332314667390189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_211
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 205
+        width: 9
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e7299058353f46e0800000000000000
+      internalID: -1851202405839329306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_212
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 205
+        width: 9
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f38804a982b87c220800000000000000
+      internalID: 2506124724157843519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_213
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 205
+        width: 9
+        height: 131
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52fc700db0d9e3800800000000000000
+      internalID: 594084874919857957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_214
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 205
+        width: 9
+        height: 133
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b42633ea9e18d7d00800000000000000
+      internalID: 972075935231861323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_215
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 205
+        width: 9
+        height: 135
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa10e59c5c5b01230800000000000000
+      internalID: 3607583162615333290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_216
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 8
+        width: 9
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df64bbcdc89ab5480800000000000000
+      internalID: -8909341015358617859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_217
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 8
+        width: 9
+        height: 140
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc2a9a42a3297a80800000000000000
+      internalID: -8468698444350214980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_218
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 8
+        width: 9
+        height: 142
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e656779e3f2bd143a04835aa7b9a3ca
+      internalID: 1088038107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_219
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 8
+        width: 9
+        height: 144
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de0003112fd5d4419459b6d26ca2376
+      internalID: 2013427995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_220
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 8
+        width: 9
+        height: 146
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b823d74ad1947d842a0fb06a5eb49614
+      internalID: -912014387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_221
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 8
+        width: 9
+        height: 149
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61eb2f118f752be448f480017de2860f
+      internalID: -842352651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_222
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 8
+        width: 9
+        height: 151
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa56acea90af2042ab234c6971975ba
+      internalID: 110389979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_223
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 8
+        width: 9
+        height: 153
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc79ac1721b2ede46a61efc1cc0a888e
+      internalID: -370360439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_224
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 8
+        width: 9
+        height: 155
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b5ba74730979a6428170e53060057bd
+      internalID: 1833386888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_225
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 8
+        width: 9
+        height: 158
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ecf2909677e8e438f9dab076c9ce43
+      internalID: -510147598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_226
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 8
+        width: 9
+        height: 160
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f7e6653ed05414789b5c58101fb15c
+      internalID: 1143606863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_227
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 8
+        width: 9
+        height: 162
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44fbcdc6c74d7594c8880e613aca1056
+      internalID: 584958263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_228
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 8
+        width: 9
+        height: 164
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c308f1c154bffd45b0773192ddfe1df
+      internalID: -1944475494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_229
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 8
+        width: 9
+        height: 167
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54273f6cc9b47ba4db0d7864eb132966
+      internalID: -124283574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_230
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 8
+        width: 9
+        height: 169
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca30ffc4cd781394ea89fea12ec99d1b
+      internalID: -373414380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_231
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 8
+        width: 9
+        height: 171
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff0931abdb0a3348a10f7bb148714e6
+      internalID: -1893176755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_232
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 8
+        width: 9
+        height: 173
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ad296f96ae24a4ea3ea023e0eda470
+      internalID: 1961541927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_233
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 8
+        width: 9
+        height: 176
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d747e31df4294e48889ed6b00100647
+      internalID: 1977930404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_234
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 8
+        width: 9
+        height: 178
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d896e7a085779fe4fba92c98d8b8c701
+      internalID: -1146780265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_235
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 8
+        width: 9
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 830786880348b09418760ad2e8ea67b1
+      internalID: -98291269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_236
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 8
+        width: 9
+        height: 182
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdcde4e60cb86724d9ae5bcf8d9a21c2
+      internalID: 7431738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_237
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 8
+        width: 9
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f423eecf022d9044dbcce409b1710340
+      internalID: -114176983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_238
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 8
+        width: 9
+        height: 187
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b22346d015df7ad4cacef23ed3708a12
+      internalID: 572576767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_239
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 8
+        width: 9
+        height: 189
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8342cc13c783b554a8628a799886d73e
+      internalID: -1938381105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_240
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1495
+        width: 10
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b825223ecb6deda4aa6a35d24c90920c
+      internalID: -1122002723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_241
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1495
+        width: 14
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf437cabab563e44a9141033b7cc238
+      internalID: -376802731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_242
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1202
+        width: 16
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523affc9d9c472a4186b9702094b170a
+      internalID: -2007396359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_243
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1202
+        width: 16
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f83ad09b090feae4ab8fcbaab008b066
+      internalID: -483352542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_244
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1138
+        width: 32
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e76dd26089640cb429c028e9398da652
+      internalID: -1153301641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Items & Weapons_245
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1266
+        width: 8
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e69e2175a02984fb9d41291136931b
+      internalID: 958604695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a52b29da21b02904ab5ca20d1ef8289d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_0: 3947934019959010665
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_1: 7361666228226860449
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_10: -63179923930415823
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_100: 484691474102556420
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_101: -7969141394278554231
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_102: 4051356619839948510
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_103: 823255024868204520
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_104: 1010476440399137597
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_105: 1910135132158650100
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_106: 4908243064046545129
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_107: -5355646265374853048
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_108: 2965432911071590185
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_109: -1179733389372157230
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_11: 6029585287838930020
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_110: -7459507867010801837
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_111: 3490567140019654828
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_112: -7222035993827869360
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_113: 1820678464228499042
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_114: -8937412575284874642
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_115: 5911973778709683773
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_116: 3543506144679980206
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_117: -7374873467910243826
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_118: -4276319820696946196
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_119: -6629409312894441783
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_12: 6442594719332115244
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_120: -8469052808593295180
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_121: 3491250121239266266
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_122: -5365976692104191271
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_123: -4159653214672831417
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_124: 837845016878635910
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_125: 4317141754834219767
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_126: -8552980111780376185
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_127: -1900281757291834543
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_128: 5943039971957977636
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_129: -8762246613448916692
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_13: 9210048852974020369
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_130: -4206849227178347151
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_131: 7625761825210904242
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_132: 400590157480112593
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_133: 5409186516911361482
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_134: -3212157439238372840
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_135: -3581336396159523899
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_136: -2394422804685060112
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_137: -7213242115797315301
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_138: -6731815913952923719
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_139: 7247218557390811514
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_14: 2200204379739495570
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_140: 4260758863894233691
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_141: 7307344818769575331
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_142: 725023048994361012
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_143: 3835823633432790305
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_144: -3070315224118449002
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_145: 1447005207054704253
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_146: -334067961315840979
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_147: -595409381360369654
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_148: -431605395853478447
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_149: -3278210090307128131
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_15: 1705013009089032885
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_150: -2843404350727590744
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_151: -6045435159442611912
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_152: 5577104845940873140
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_153: -1329998396438007338
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_154: 2570523311473096505
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_155: 4040549290778616772
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_156: -5269807169360158773
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_157: -1948897945990692125
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_158: 5615748212848073382
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_159: 3564568952645894803
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_16: -2829614091987130534
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_160: 4754729740367657947
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_161: 5620949896710786314
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_162: 4151810486436296691
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_163: -390972807927837939
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_164: 3353933509000807341
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_165: -1158145719381083169
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_166: -4137560219890842229
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_167: 521369801588509629
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_168: 644059337458984877
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_169: 4649597046996885488
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_17: -7538768367054631797
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_170: -1171407606271448285
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_171: -5521538778641524544
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_172: 7248320976109371112
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_173: 5051259078945048475
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_174: -1300826118374927233
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_175: -8926615703740524794
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_176: 718428556538501330
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_177: 1281504638329659610
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_178: -20965871678883001
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_179: 9016109256947723162
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_18: -2608648734173960877
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_180: -3879097844497280179
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_181: 7191564931196428549
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_182: 6209962708712946803
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_183: -8566474819652759953
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_184: 6656389399239459641
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_185: -7552321264913485037
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_186: 5956147759803667587
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_187: -5778736897741825605
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_188: -8254232474259834400
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_189: -4171480910230602828
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_19: -3572883680185976126
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_190: 3909530397124214483
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_191: 6033537127275653728
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_192: -74136798270629252
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_193: -5671729380418693875
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_194: -3181630501290646288
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_195: -941313958110517720
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_196: -7071400282539393401
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_197: -4812170078273279453
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_198: -1805352283739446023
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_199: 3142848015091427350
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_2: 5332620178225666657
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_20: -9186193788287904121
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_200: 8015997438269732475
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_201: 5385991573696674606
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_202: -8719681729527642596
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_203: 3444297087120609621
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_204: -7938479403370355494
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_205: -1922975878178925426
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_206: 6137644016873842821
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_207: -2864676997569375952
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_208: -4078968762060426892
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_209: -8475217663867442180
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_21: 3411079369493509817
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_210: -4482332314667390189
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_211: -1851202405839329306
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_212: 2506124724157843519
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_213: 594084874919857957
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_214: 972075935231861323
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_215: 3607583162615333290
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_216: -8909341015358617859
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_217: -8468698444350214980
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_218: 1088038107
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_219: 2013427995
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_22: -35123616878121579
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_220: -912014387
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_221: -842352651
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_222: 110389979
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_223: -370360439
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_224: 1833386888
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_225: -510147598
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_226: 1143606863
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_227: 584958263
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_228: -1944475494
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_229: -124283574
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_23: -8138367517206105121
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_230: -373414380
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_231: -1893176755
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_232: 1961541927
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_233: 1977930404
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_234: -1146780265
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_235: -98291269
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_236: 7431738
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_237: -114176983
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_238: 572576767
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_239: -1938381105
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_24: -788116001742490885
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_240: -1122002723
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_241: -376802731
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_242: -2007396359
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_243: -483352542
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_244: -1153301641
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_245: 958604695
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_25: -1649385363398482184
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_26: -6686370088270726047
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_27: -1358698180734826042
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_28: 3926706520163152470
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_29: 9020174064536023693
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_3: 4115692656375297765
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_30: -1427857255933622665
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_31: -1500284667201864232
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_32: -4220212137126670094
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_33: -6575814452200967011
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_34: 1722130224518441212
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_35: -436437464645461513
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_36: -4048563558346735730
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_37: 7184956163129781230
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_38: 6996731970852724603
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_39: 7377289962457394377
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_4: 8524418484444580751
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_40: 2753113790750631298
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_41: 8619987720352613513
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_42: -4740276694057932064
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_43: -9164942493146613620
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_44: 6059897399219893707
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_45: 8616995354944417717
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_46: 6590525645014374180
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_47: -1529716347738994498
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_48: 1758903416640467621
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_49: 7684545507056902094
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_5: 3611041396122265524
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_50: -5038189090739087476
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_51: 377568086406815494
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_52: 3775528838472160895
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_53: -1597475474630745972
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_54: 5799321617618874105
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_55: -1123196895668763850
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_56: -6580443514621021774
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_57: 811220743326003492
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_58: 5356968725345631202
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_59: -5568659915630354024
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_6: 2749709355563412680
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_60: -546975558741927592
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_61: -6841500823601367680
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_62: 2667306821359976882
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_63: -1148473987840340600
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_64: -5981927848212287535
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_65: 81942545406216720
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_66: -2836317416048732158
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_67: 1187427677508230778
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_68: -1040560242725814705
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_69: 3942453209974505040
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_7: -7502657224206971807
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_70: 8785869950638027657
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_71: -1163493887159508662
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_72: 5201688841574574333
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_73: -8328885821669748075
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_74: -3985905604899304810
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_75: 2405020139042592358
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_76: 5557252253987677410
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_77: -2275277856167399807
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_78: 7406183815421941941
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_79: 1338912578957505818
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_8: -5837036124073570958
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_80: -2379615972771234399
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_81: 1306121205374181660
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_82: 5579588038423683975
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_83: -6697221439886347502
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_84: -4642249560393283778
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_85: 1443790508316074777
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_86: -8142243352914157684
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_87: 958305621990592371
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_88: -6222482521384539516
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_89: 4003801262768846128
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_9: -1737303731971862513
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_90: -160644646211082272
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_91: 739650256256315659
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_92: 7977954431233971551
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_93: 1567815590875107355
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_94: 5466301616764059783
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_95: 365389945170283737
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_96: -5757710331061135358
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_97: 4862418473670885591
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_98: -3966906067840477240
+      Arcade - Pang Buster Bros Pomping World - Items & Weapons_99: -6241620705665239024
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

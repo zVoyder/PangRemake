@@ -1,0 +1,1007 @@
+fileFormatVersion: 2
+guid: 1953959a1525f5641af6a97e3204479c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -709944223184607914
+    second: SNES - Super Buster Bros Super Pang - Backgrounds_0
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SNES - Super Buster Bros Super Pang - Backgrounds_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3830.4
+        width: 268
+        height: 201.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 655adbe8d75c526f0800000000000000
+      internalID: -709944223184607914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Buster Bros Super Pang - Backgrounds_1
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 3830.4
+        width: 268
+        height: 201.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 386204673e2be904ebb242e46c82bec0
+      internalID: 1697065732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Buster Bros Super Pang - Backgrounds_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3629.4
+        width: 268
+        height: 201.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa8679770dd0514c894f07f50bcdb7c
+      internalID: -784093682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Buster Bros Super Pang - Backgrounds_3
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 3629.4
+        width: 268
+        height: 201.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e382422ac51045498c6925827502064
+      internalID: 1307384022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Buster Bros Super Pang - Backgrounds_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3428.4
+        width: 268
+        height: 201.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028e8c8e87413444aa2f334b8544556e
+      internalID: -1778801550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Buster Bros Super Pang - Backgrounds_5
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 3428.4
+        width: 268
+        height: 201.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3cb7a95c401d84f8f47664cbf219dc
+      internalID: -1553745312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Buster Bros Super Pang - Backgrounds_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3227.4
+        width: 268
+        height: 201.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51bf8c2ddf060e34aaae05e16e88e2df
+      internalID: -1453345992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Buster Bros Super Pang - Backgrounds_7
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 3227.4
+        width: 268
+        height: 201.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 656cb3ef21cccde4096d8089d94daff3
+      internalID: 966864705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Buster Bros Super Pang - Backgrounds_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3026.4
+        width: 268
+        height: 201.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b64e9fc7c5a3f54086bd389204ba6dc
+      internalID: -223208615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Buster Bros Super Pang - Backgrounds_9
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 3026.4
+        width: 268
+        height: 201.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf00944ee250504292bb3bf542a90a0
+      internalID: -379104032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Buster Bros Super Pang - Backgrounds_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2825.4
+        width: 268
+        height: 201.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c742a58967f288479003c6fbc41ca35
+      internalID: 334243558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Buster Bros Super Pang - Backgrounds_11
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 2825.4
+        width: 268
+        height: 201.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c3a3db0399e1e438e625d5a5fe35b9
+      internalID: 2001184758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Buster Bros Super Pang - Backgrounds_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2624.4
+        width: 268
+        height: 201.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e873ad4787b90414199fcc15ff76fb76
+      internalID: -598237372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Buster Bros Super Pang - Backgrounds_13
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 2624.4
+        width: 268
+        height: 201.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 524c5f3a0ff98644f8b23522b4d35556
+      internalID: 1546187105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Buster Bros Super Pang - Backgrounds_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2423.4
+        width: 268
+        height: 201.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18b28ed34b2dcd4aa76df6036b7c16f
+      internalID: 84519917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Buster Bros Super Pang - Backgrounds_15
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 2423.4
+        width: 268
+        height: 201.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0d447abcc9ef1489a960d1f4aa47a5
+      internalID: -220525655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Buster Bros Super Pang - Backgrounds_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2222.4
+        width: 268
+        height: 201.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 915414d641c06524aa6055c5846c2357
+      internalID: 967559811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Buster Bros Super Pang - Backgrounds_17
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 2222.4
+        width: 268
+        height: 201.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd692837923302a4eb14dbb372cb642c
+      internalID: 309283889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Buster Bros Super Pang - Backgrounds_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2021.4
+        width: 268
+        height: 201.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234a14bc66c386645baaf8e578c5847e
+      internalID: 1901203890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Buster Bros Super Pang - Backgrounds_19
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 2021.4
+        width: 268
+        height: 201.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ebe835360c58604ca3d49d0825623a5
+      internalID: -1866096829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Buster Bros Super Pang - Backgrounds_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1820.4
+        width: 268
+        height: 201.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22da3ef162809e243beea3974ffca029
+      internalID: 1829331111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Buster Bros Super Pang - Backgrounds_21
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1820.4
+        width: 268
+        height: 201.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83932082fb2c84d4cabdcd628a6747c2
+      internalID: 196395011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Buster Bros Super Pang - Backgrounds_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1619.4
+        width: 268
+        height: 201.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e41fd231c24e64090770ace074564b
+      internalID: -153875084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Buster Bros Super Pang - Backgrounds_23
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1619.4
+        width: 268
+        height: 201.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0ab82e264ef2747ad084f51a6dd0a2
+      internalID: -958451552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Buster Bros Super Pang - Backgrounds_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1418.4
+        width: 268
+        height: 201.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356837d5ac46d564c8ce9d5957173de9
+      internalID: -680872028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Buster Bros Super Pang - Backgrounds_25
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1418.4
+        width: 268
+        height: 201.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f594d4412c299db43b1b109c5434541a
+      internalID: 2080133843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Buster Bros Super Pang - Backgrounds_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1217.4
+        width: 268
+        height: 201.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2929f06008dc5c4c8b741bdb634a4e0
+      internalID: 154610404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Buster Bros Super Pang - Backgrounds_27
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1217.4
+        width: 268
+        height: 201.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae0e133973782404e980dcf864db2df4
+      internalID: 1126694213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Buster Bros Super Pang - Backgrounds_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1016.4
+        width: 268
+        height: 201.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6bd5ca34ad0f604ebfbab54f129f10d
+      internalID: 70198459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Buster Bros Super Pang - Backgrounds_29
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1016.4
+        width: 268
+        height: 201.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa69d66cf98911f43a03cde089363de9
+      internalID: 13277034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Buster Bros Super Pang - Backgrounds_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 815.4
+        width: 268
+        height: 201.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 208cf139748478447abc4e4b3682b805
+      internalID: -1288631963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Buster Bros Super Pang - Backgrounds_31
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 815.4
+        width: 268
+        height: 201.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe58992ecb91ea4f8b945736238be98
+      internalID: -340182827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Buster Bros Super Pang - Backgrounds_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 614.4
+        width: 268
+        height: 201.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0408e3a1e522d9d49980221cab31598b
+      internalID: 1440847017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Buster Bros Super Pang - Backgrounds_33
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 614.4
+        width: 268
+        height: 201.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c08d3b1db9f2db3468ec50f8bd3a0ad7
+      internalID: -426126622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Buster Bros Super Pang - Backgrounds_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 413.4
+        width: 268
+        height: 201.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69cda6fdae9395f48a51be12b56d6e46
+      internalID: -1602380665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Buster Bros Super Pang - Backgrounds_35
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 413.4
+        width: 268
+        height: 201.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20c69e5ef22dd141b8545f78de53b26
+      internalID: 1101673834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Buster Bros Super Pang - Backgrounds_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 212.4
+        width: 268
+        height: 201.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ad3883dc6697a409cf84613ac8058a
+      internalID: 323817641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Buster Bros Super Pang - Backgrounds_37
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 212.4
+        width: 268
+        height: 201.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b28d4e3c05823244a4d39378bd496e5
+      internalID: 717632673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Buster Bros Super Pang - Backgrounds_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11.399994
+        width: 268
+        height: 201.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd745407dd810f14a9dd5a4d1f0e29c4
+      internalID: 1065533645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Buster Bros Super Pang - Backgrounds_39
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 11.399994
+        width: 268
+        height: 201.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1005c5e254d0a0745a0d713ac9d10063
+      internalID: 1768864053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 287f980bb671c4f45bb10e51bc1e40c7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SNES - Super Buster Bros Super Pang - Backgrounds_0: -709944223184607914
+      SNES - Super Buster Bros Super Pang - Backgrounds_1: 1697065732
+      SNES - Super Buster Bros Super Pang - Backgrounds_10: 334243558
+      SNES - Super Buster Bros Super Pang - Backgrounds_11: 2001184758
+      SNES - Super Buster Bros Super Pang - Backgrounds_12: -598237372
+      SNES - Super Buster Bros Super Pang - Backgrounds_13: 1546187105
+      SNES - Super Buster Bros Super Pang - Backgrounds_14: 84519917
+      SNES - Super Buster Bros Super Pang - Backgrounds_15: -220525655
+      SNES - Super Buster Bros Super Pang - Backgrounds_16: 967559811
+      SNES - Super Buster Bros Super Pang - Backgrounds_17: 309283889
+      SNES - Super Buster Bros Super Pang - Backgrounds_18: 1901203890
+      SNES - Super Buster Bros Super Pang - Backgrounds_19: -1866096829
+      SNES - Super Buster Bros Super Pang - Backgrounds_2: -784093682
+      SNES - Super Buster Bros Super Pang - Backgrounds_20: 1829331111
+      SNES - Super Buster Bros Super Pang - Backgrounds_21: 196395011
+      SNES - Super Buster Bros Super Pang - Backgrounds_22: -153875084
+      SNES - Super Buster Bros Super Pang - Backgrounds_23: -958451552
+      SNES - Super Buster Bros Super Pang - Backgrounds_24: -680872028
+      SNES - Super Buster Bros Super Pang - Backgrounds_25: 2080133843
+      SNES - Super Buster Bros Super Pang - Backgrounds_26: 154610404
+      SNES - Super Buster Bros Super Pang - Backgrounds_27: 1126694213
+      SNES - Super Buster Bros Super Pang - Backgrounds_28: 70198459
+      SNES - Super Buster Bros Super Pang - Backgrounds_29: 13277034
+      SNES - Super Buster Bros Super Pang - Backgrounds_3: 1307384022
+      SNES - Super Buster Bros Super Pang - Backgrounds_30: -1288631963
+      SNES - Super Buster Bros Super Pang - Backgrounds_31: -340182827
+      SNES - Super Buster Bros Super Pang - Backgrounds_32: 1440847017
+      SNES - Super Buster Bros Super Pang - Backgrounds_33: -426126622
+      SNES - Super Buster Bros Super Pang - Backgrounds_34: -1602380665
+      SNES - Super Buster Bros Super Pang - Backgrounds_35: 1101673834
+      SNES - Super Buster Bros Super Pang - Backgrounds_36: 323817641
+      SNES - Super Buster Bros Super Pang - Backgrounds_37: 717632673
+      SNES - Super Buster Bros Super Pang - Backgrounds_38: 1065533645
+      SNES - Super Buster Bros Super Pang - Backgrounds_39: 1768864053
+      SNES - Super Buster Bros Super Pang - Backgrounds_4: -1778801550
+      SNES - Super Buster Bros Super Pang - Backgrounds_5: -1553745312
+      SNES - Super Buster Bros Super Pang - Backgrounds_6: -1453345992
+      SNES - Super Buster Bros Super Pang - Backgrounds_7: 966864705
+      SNES - Super Buster Bros Super Pang - Backgrounds_8: -223208615
+      SNES - Super Buster Bros Super Pang - Backgrounds_9: -379104032
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,824 @@
+fileFormatVersion: 2
+guid: f6da0e40c57eb6640954708b25a53e66
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7094311788520539844
+    second: Arcade - Pang Buster Bros Pomping World - Food_0
+  - first:
+      213: 3365541870909115019
+    second: Arcade - Pang Buster Bros Pomping World - Food_1
+  - first:
+      213: -5178349933700627625
+    second: Arcade - Pang Buster Bros Pomping World - Food_2
+  - first:
+      213: -8033678645084758997
+    second: Arcade - Pang Buster Bros Pomping World - Food_3
+  - first:
+      213: 7815969440307361836
+    second: Arcade - Pang Buster Bros Pomping World - Food_4
+  - first:
+      213: 2103126865133517212
+    second: Arcade - Pang Buster Bros Pomping World - Food_5
+  - first:
+      213: 7801903480276737980
+    second: Arcade - Pang Buster Bros Pomping World - Food_6
+  - first:
+      213: 7315683836761540516
+    second: Arcade - Pang Buster Bros Pomping World - Food_7
+  - first:
+      213: 4710453318494377716
+    second: Arcade - Pang Buster Bros Pomping World - Food_8
+  - first:
+      213: -7934715227855148177
+    second: Arcade - Pang Buster Bros Pomping World - Food_9
+  - first:
+      213: -5362669320807702994
+    second: Arcade - Pang Buster Bros Pomping World - Food_10
+  - first:
+      213: 6916553594206793494
+    second: Arcade - Pang Buster Bros Pomping World - Food_11
+  - first:
+      213: -6228862153557231971
+    second: Arcade - Pang Buster Bros Pomping World - Food_12
+  - first:
+      213: 4684702954847646322
+    second: Arcade - Pang Buster Bros Pomping World - Food_13
+  - first:
+      213: 6257356729968080791
+    second: Arcade - Pang Buster Bros Pomping World - Food_14
+  - first:
+      213: -1389015564823754711
+    second: Arcade - Pang Buster Bros Pomping World - Food_15
+  - first:
+      213: 1090515625643650535
+    second: Arcade - Pang Buster Bros Pomping World - Food_16
+  - first:
+      213: 4937528737577550350
+    second: Arcade - Pang Buster Bros Pomping World - Food_17
+  - first:
+      213: -3390844062843869281
+    second: Arcade - Pang Buster Bros Pomping World - Food_18
+  - first:
+      213: 3080464113882151761
+    second: Arcade - Pang Buster Bros Pomping World - Food_19
+  - first:
+      213: 3172736388300256841
+    second: Arcade - Pang Buster Bros Pomping World - Food_20
+  - first:
+      213: -3697598200439142464
+    second: Arcade - Pang Buster Bros Pomping World - Food_21
+  - first:
+      213: -1714982831552245335
+    second: Arcade - Pang Buster Bros Pomping World - Food_22
+  - first:
+      213: 3803231495802241268
+    second: Arcade - Pang Buster Bros Pomping World - Food_23
+  - first:
+      213: -172327047382079301
+    second: Arcade - Pang Buster Bros Pomping World - Food_24
+  - first:
+      213: -4028486444785538978
+    second: Arcade - Pang Buster Bros Pomping World - Food_25
+  - first:
+      213: 4875082408814768789
+    second: Arcade - Pang Buster Bros Pomping World - Food_26
+  - first:
+      213: -9040672381466981035
+    second: Arcade - Pang Buster Bros Pomping World - Food_27
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Food_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 76
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c39fd5ff301fb8d90800000000000000
+      internalID: -7094311788520539844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Food_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 76
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8acd3c008ec4be20800000000000000
+      internalID: 3365541870909115019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Food_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 76
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7534b1fdb2ec228b0800000000000000
+      internalID: -5178349933700627625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Food_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 76
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2cd41826d3a28090800000000000000
+      internalID: -8033678645084758997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Food_4
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 76
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2834d09bc6e77c60800000000000000
+      internalID: 7815969440307361836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Food_5
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 76
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c993dd1bdbecf2d10800000000000000
+      internalID: 2103126865133517212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Food_6
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 76
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbf57c901ede54c60800000000000000
+      internalID: 7801903480276737980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Food_7
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 76
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a70d3b70b7868560800000000000000
+      internalID: 7315683836761540516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Food_8
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 76
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f6daeb0654ee5140800000000000000
+      internalID: 4710453318494377716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Food_9
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 76
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6bafc94a8a32e190800000000000000
+      internalID: -7934715227855148177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Food_10
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 44
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2e1f555aa8f395b0800000000000000
+      internalID: -5362669320807702994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Food_11
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 44
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61fa5a439d88cff50800000000000000
+      internalID: 6916553594206793494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Food_12
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 44
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d96b85e8fd2ae89a0800000000000000
+      internalID: -6228862153557231971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Food_13
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 44
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 272baed4488630140800000000000000
+      internalID: 4684702954847646322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Food_14
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 44
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 797b5a20bc896d650800000000000000
+      internalID: 6257356729968080791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Food_15
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 44
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 928013ff3b939bce0800000000000000
+      internalID: -1389015564823754711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Food_16
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 44
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eda0880f2a422f00800000000000000
+      internalID: 1090515625643650535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Food_17
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 44
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e02c7970a30a58440800000000000000
+      internalID: 4937528737577550350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Food_18
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 44
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f97e2715a4d41f0d0800000000000000
+      internalID: -3390844062843869281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Food_19
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 44
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15bb8436ac100ca20800000000000000
+      internalID: 3080464113882151761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Food_20
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 8
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 946b79e6fe2d70c20800000000000000
+      internalID: 3172736388300256841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Food_21
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 8
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c783b4070e7facc0800000000000000
+      internalID: -3697598200439142464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Food_22
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 8
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a15f6973382338e0800000000000000
+      internalID: -1714982831552245335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Food_23
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 8
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f0ced125eac7c430800000000000000
+      internalID: 3803231495802241268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Food_24
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 8
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb86993a675cb9df0800000000000000
+      internalID: -172327047382079301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Food_25
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 8
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e58e41c1ce0f718c0800000000000000
+      internalID: -4028486444785538978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Food_26
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 8
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 592f82c1f95c7a340800000000000000
+      internalID: 4875082408814768789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Food_27
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 8
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55dc9fb5e54198280800000000000000
+      internalID: -9040672381466981035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b5e0873eb6a4cf7418be29bada96de57
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Arcade - Pang Buster Bros Pomping World - Food_0: -7094311788520539844
+      Arcade - Pang Buster Bros Pomping World - Food_1: 3365541870909115019
+      Arcade - Pang Buster Bros Pomping World - Food_10: -5362669320807702994
+      Arcade - Pang Buster Bros Pomping World - Food_11: 6916553594206793494
+      Arcade - Pang Buster Bros Pomping World - Food_12: -6228862153557231971
+      Arcade - Pang Buster Bros Pomping World - Food_13: 4684702954847646322
+      Arcade - Pang Buster Bros Pomping World - Food_14: 6257356729968080791
+      Arcade - Pang Buster Bros Pomping World - Food_15: -1389015564823754711
+      Arcade - Pang Buster Bros Pomping World - Food_16: 1090515625643650535
+      Arcade - Pang Buster Bros Pomping World - Food_17: 4937528737577550350
+      Arcade - Pang Buster Bros Pomping World - Food_18: -3390844062843869281
+      Arcade - Pang Buster Bros Pomping World - Food_19: 3080464113882151761
+      Arcade - Pang Buster Bros Pomping World - Food_2: -5178349933700627625
+      Arcade - Pang Buster Bros Pomping World - Food_20: 3172736388300256841
+      Arcade - Pang Buster Bros Pomping World - Food_21: -3697598200439142464
+      Arcade - Pang Buster Bros Pomping World - Food_22: -1714982831552245335
+      Arcade - Pang Buster Bros Pomping World - Food_23: 3803231495802241268
+      Arcade - Pang Buster Bros Pomping World - Food_24: -172327047382079301
+      Arcade - Pang Buster Bros Pomping World - Food_25: -4028486444785538978
+      Arcade - Pang Buster Bros Pomping World - Food_26: 4875082408814768789
+      Arcade - Pang Buster Bros Pomping World - Food_27: -9040672381466981035
+      Arcade - Pang Buster Bros Pomping World - Food_3: -8033678645084758997
+      Arcade - Pang Buster Bros Pomping World - Food_4: 7815969440307361836
+      Arcade - Pang Buster Bros Pomping World - Food_5: 2103126865133517212
+      Arcade - Pang Buster Bros Pomping World - Food_6: 7801903480276737980
+      Arcade - Pang Buster Bros Pomping World - Food_7: 7315683836761540516
+      Arcade - Pang Buster Bros Pomping World - Food_8: 4710453318494377716
+      Arcade - Pang Buster Bros Pomping World - Food_9: -7934715227855148177
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

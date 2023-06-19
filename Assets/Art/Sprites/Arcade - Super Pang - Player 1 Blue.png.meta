@@ -1,0 +1,519 @@
+fileFormatVersion: 2
+guid: 3bc10b78e677c434b91f1b30a8f0b78b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9168581952237324046
+    second: Arcade - Super Pang - Player 1 Blue_0
+  - first:
+      213: 3408422534599652175
+    second: Arcade - Super Pang - Player 1 Blue_1
+  - first:
+      213: 7572543026316873462
+    second: Arcade - Super Pang - Player 1 Blue_2
+  - first:
+      213: -3263584849503526283
+    second: Arcade - Super Pang - Player 1 Blue_3
+  - first:
+      213: 3974558423453793040
+    second: Arcade - Super Pang - Player 1 Blue_4
+  - first:
+      213: -3715792861064397661
+    second: Arcade - Super Pang - Player 1 Blue_5
+  - first:
+      213: -2125611685672156607
+    second: Arcade - Super Pang - Player 1 Blue_6
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Player 1 Blue_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 55
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e07c92555b85d3f70800000000000000
+      internalID: 9168581952237324046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Player 1 Blue_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 55
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7341e6119a328b44781e78b8492bd3f5
+      internalID: 3408422534599652175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Player 1 Blue_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 55
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c31a8d6913133243bebe6e1922a9085
+      internalID: 7572543026316873462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Player 1 Blue_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 55
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f91728832cdedf0409687eee3666a037
+      internalID: -3263584849503526283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Player 1 Blue_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 54
+        width: 26
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac680d2b0cd61eb40989e42f6862c912
+      internalID: 3974558423453793040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Player 1 Blue_5
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 54
+        width: 29
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7037e31eb097af408b2183edb57fd07
+      internalID: -3715792861064397661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Player 1 Blue_6
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 54
+        width: 29
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535fc662ad0e00741a9ff98577b69328
+      internalID: -2125611685672156607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Player 1 Blue_7
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 56
+        width: 29
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 197b999db0a659241bcaf508587829d8
+      internalID: 1422317478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Player 1 Blue_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 21
+        width: 28
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71349796f83383e4090bdc3c211bbc1a
+      internalID: -1233972122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Player 1 Blue_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 21
+        width: 29
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e1471b07c0dcec4d85138da81aa3db7
+      internalID: 200536160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Player 1 Blue_10
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 20
+        width: 35
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8344ab33b095214f92a9d2ae847828b
+      internalID: 651130868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Player 1 Blue_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 21
+        width: 31
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eadb2993171b0be49b69152b43c1916e
+      internalID: 992835950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Player 1 Blue_12
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 19
+        width: 25
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586a09594ce8c954aabfb45fa931326d
+      internalID: -559439627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Player 1 Blue_13
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 19
+        width: 25
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc54d17de7bf93143a387d523971ab2a
+      internalID: -1473682346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Player 1 Blue_14
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 19
+        width: 34
+        height: 34
+      alignment: 9
+      pivot: {x: 0.54, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88bbae34b35dcce4eac81b81e4a4b5a8
+      internalID: -874597877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Player 1 Blue_15
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 19
+        width: 26
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af4ce12d24e31c4dad231b7887e63d5
+      internalID: 885070657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Player 1 Blue_16
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 55
+        width: 34
+        height: 32
+      alignment: 9
+      pivot: {x: 0.55, y: 0.00000035762787}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a15022ef6a1474b89a14e1b995d7d1
+      internalID: 1308917280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d01476036ec00c94a977247ddb28398f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Arcade - Super Pang - Player 1 Blue_0: 9168581952237324046
+      Arcade - Super Pang - Player 1 Blue_1: 3408422534599652175
+      Arcade - Super Pang - Player 1 Blue_10: 651130868
+      Arcade - Super Pang - Player 1 Blue_11: 992835950
+      Arcade - Super Pang - Player 1 Blue_12: -559439627
+      Arcade - Super Pang - Player 1 Blue_13: -1473682346
+      Arcade - Super Pang - Player 1 Blue_14: -874597877
+      Arcade - Super Pang - Player 1 Blue_15: 885070657
+      Arcade - Super Pang - Player 1 Blue_16: 1308917280
+      Arcade - Super Pang - Player 1 Blue_2: 7572543026316873462
+      Arcade - Super Pang - Player 1 Blue_3: -3263584849503526283
+      Arcade - Super Pang - Player 1 Blue_4: 3974558423453793040
+      Arcade - Super Pang - Player 1 Blue_5: -3715792861064397661
+      Arcade - Super Pang - Player 1 Blue_6: -2125611685672156607
+      Arcade - Super Pang - Player 1 Blue_7: 1422317478
+      Arcade - Super Pang - Player 1 Blue_8: -1233972122
+      Arcade - Super Pang - Player 1 Blue_9: 200536160
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
