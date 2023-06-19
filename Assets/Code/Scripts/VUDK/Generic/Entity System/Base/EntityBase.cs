@@ -14,26 +14,15 @@
         public float CurrentHitPoints { get; private set; }
         public bool IsAlive { get; private set; } = true;
 
-        /// <summary>
-        /// On Change hit points Action event delegate.
-        /// <code><see cref="(T1)"/> as The hit points change receiver.</code>
-        /// <code><see cref="(T2)"/> as The current hit points.</code>
-        /// <code><see cref="(T3)"/> as The maximum hit points.</code>
-        /// </summary>
         public event Action<float, float, float> OnChangeHitPoints;
 
-        /// <summary>
-        /// On hit points setup Action event delegate.
-        /// <code><see cref="(T1)"/> as The current hit points.</code>
-        /// <code><see cref="(T2)"/> as The maximum hit points.</code>
-        /// </summary>
         public event Action<float, float> OnHitPointsSetUp;
 
         public event Action OnTakeDamage;
         public event Action OnHealHitPoints;
         public event Action OnDeath;
 
-        protected virtual void SetupHP()
+        public virtual void Init()
         {
             IsAlive = true;
             CurrentHitPoints = StartingHitPoints;
@@ -85,6 +74,9 @@
             }
         }
 
+        /// <summary>
+        /// Triggers the effects of death.
+        /// </summary>
         protected virtual void DeathEffects()
         {
         }

@@ -52,6 +52,9 @@ namespace PangRemake.Managers
             EventManager.Instance.RemoveListener(EventKeys.s_OnLittleBalloonPop, Decrease);
         }
 
+        /// <summary>
+        /// Decreases the number of <see cref="LittleBalloon"/> to kill to achieve victory.
+        /// </summary>
         private void Decrease()
         {
             _numberOfBalloonsToDestroy--;
@@ -62,6 +65,9 @@ namespace PangRemake.Managers
             }
         }
 
+        /// <summary>
+        /// Wins the game.
+        /// </summary>
         public void WinCondition()
         {
 #if DEBUG
@@ -72,6 +78,9 @@ namespace PangRemake.Managers
             GameFinished();
         }
 
+        /// <summary>
+        /// Loses the game.
+        /// </summary>
         public void LoseCondition()
         {
 #if DEBUG
@@ -82,6 +91,9 @@ namespace PangRemake.Managers
             GameFinished();
         }
 
+        /// <summary>
+        /// Ends the game.
+        /// </summary>
         private void GameFinished()
         {
             _onGamefinished?.Invoke();

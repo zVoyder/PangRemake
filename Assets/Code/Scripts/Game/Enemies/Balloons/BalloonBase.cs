@@ -51,6 +51,10 @@ namespace PangRemake.Enemies
                 Init(_balloonPhysic.BounceDirection);
         }
 
+        /// <summary>
+        /// Initializes the Balloon.
+        /// </summary>
+        /// <param name="bounceDirection">Starting Bounce Direction.</param>
         public virtual void Init(Vector2 bounceDirection)
         {
             _balloonPhysic.Init(bounceDirection, _rb);
@@ -87,6 +91,9 @@ namespace PangRemake.Enemies
             _anim.SetTrigger(AnimationConstants.s_BalloonExplosion);
         }
 
+        /// <summary>
+        /// Generates a new set of smaller balloons.
+        /// </summary>
         protected virtual void GenerateBalloons()
         {
             Vector2 startDirection = new Vector2(Mathf.Abs(_balloonPhysic.BounceDirection.x), Mathf.Abs(_balloonPhysic.BounceDirection.y));
@@ -95,6 +102,11 @@ namespace PangRemake.Enemies
             GenerateBalloon(new Vector2(-startDirection.x, startDirection.y)).transform.SetPosition(_balloonSpawnPointTwo.position);
         }
 
+        /// <summary>
+        /// Generates a smaller balloon.
+        /// </summary>
+        /// <param name="startBounceDirection">Starting Bounce direction of the new balloon.</param>
+        /// <returns>GameObject of the new Balloon.</returns>
         protected virtual GameObject GenerateBalloon(Vector2 startBounceDirection)
         {
             BalloonBase balloon = BalloonsConcreteFactory.CreateBigBalloon(startBounceDirection);
@@ -105,13 +117,8 @@ namespace PangRemake.Enemies
         {
             if(collision.transform.TryGetComponent(out PlayerEntity player))
             {
-                DamagePlayer(player);
+                player.TakeDamage(_damage);
             }
-        }
-
-        private void DamagePlayer(PlayerEntity player)
-        {
-            player.TakeDamage(_damage);
         }
     }
 }

@@ -26,7 +26,7 @@ namespace PangRemake.WeaponSystem
             if (goBull.TryGetComponent(out HarpoonBullet bull))
             {
                 if (!bull.IsSetted)
-                    bull.Init(Damage.Random(), BulletSpeed, this);
+                    bull.Init(Damage.Random(), this);
                 else
                     bull.Damage = Damage.Random();
             }
@@ -34,6 +34,9 @@ namespace PangRemake.WeaponSystem
             return goBull;
         }
 
+        /// <summary>
+        /// Sets the possibility to shoot to true.
+        /// </summary>
         public void ResetCanShoot()
         {
             StopAllCoroutines();

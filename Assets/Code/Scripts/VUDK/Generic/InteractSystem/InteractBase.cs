@@ -4,6 +4,10 @@ namespace VUDK.Generic.InteractSystem
 
     public abstract class InteractBase : MonoBehaviour
     {
+        /// <summary>
+        /// Triggers interact.
+        /// </summary>
+        /// <param name="Interactor">Interactor GameObject.</param>
         public abstract void Interact(GameObject Interactor);
     }
 }

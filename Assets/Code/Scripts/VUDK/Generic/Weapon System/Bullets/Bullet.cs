@@ -24,6 +24,11 @@
 
         public static event Action<Vector3> OnBulletHit;
 
+        /// <summary>
+        /// Initializes this <see cref="Bullet"/>.
+        /// </summary>
+        /// <param name="damage">Bullet damage.</param>
+        /// <param name="speed">Bullet speed.</param>
         public virtual void Init(float damage, float speed)
         {
             Damage = damage;
@@ -31,6 +36,10 @@
             IsSetted = true;
         }
 
+        /// <summary>
+        /// Checks if this <see cref="Bullet"/> has been setted.
+        /// </summary>
+        /// <returns></returns>
         public bool Check()
         {
             return IsSetted;
@@ -49,23 +58,20 @@
             Invoke("Dispose", TimeBeforeDispose);
         }
 
+        /// <summary>
+        /// Starts moving the bullet.
+        /// </summary>
         public virtual void ShootBullet()
         {
             MoveBullet();
         }
 
+        /// <summary>
+        /// Moves the bullet by its rigidbody velocity.
+        /// </summary>
         protected virtual void MoveBullet()
         {
             Rigidbody.velocity = transform.forward * Speed;
-        }
-
-        protected virtual void OnTriggerEnter2D(Collider2D other)
-        {
-            if (other.transform.TryGetComponent(out IVulnerable ent))
-                ent.TakeDamage(Damage);
-
-            Dispose();
-            OnBulletHit?.Invoke(other.ClosestPoint(transform.position));
         }
 
         public void AssociatePool(Pool associatedPool)
@@ -76,6 +82,15 @@
         public virtual void Dispose()
         {
             RelatedPool.Dispose(gameObject);
+        }
+
+        protected virtual void OnTriggerEnter2D(Collider2D other)
+        {
+            if (other.transform.TryGetComponent(out IVulnerable ent))
+                ent.TakeDamage(Damage);
+
+            Dispose();
+            OnBulletHit?.Invoke(other.ClosestPoint(transform.position));
         }
     }
 }

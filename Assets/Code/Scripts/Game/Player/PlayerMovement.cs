@@ -16,6 +16,10 @@ namespace PangRemake.Player
 
         public event Action<int> OnMovement;
 
+        /// <summary>
+        /// Initializes this <see cref="PlayerMovement"/>.
+        /// </summary>
+        /// <param name="player"><see cref="PlayerManager"/> to initialize this Entity with.</param>
         public void Init(PlayerManager player)
         {
             _rb = player.Rigidbody;
@@ -41,19 +45,25 @@ namespace PangRemake.Player
         }
 
         /// <summary>
-        /// Moves the gameObject using its rigidbody velocity.
+        /// Moves the GameObject using its rigidbody velocity.
         /// </summary>
         private void Movement()
         {
             _rb.velocity = new Vector2(direction * _speed, _rb.velocity.y);
         }
 
-        private void StopMove(UnityEngine.InputSystem.InputAction.CallbackContext obj)
+        /// <summary>
+        /// Stops the movement.
+        /// </summary>
+        private void StopMove(UnityEngine.InputSystem.InputAction.CallbackContext context)
         {
             direction = 0;
             OnMovement?.Invoke(direction);
         }
 
+        /// <summary>
+        /// Starts the movement.
+        /// </summary>
         private void StartMove(UnityEngine.InputSystem.InputAction.CallbackContext context)
         {
             direction = (int)context.ReadValue<float>();

@@ -7,9 +7,14 @@
     {
         private HarpoonWeapon _harpoonWeapon;
 
-        public void Init(float damage, float speed, HarpoonWeapon weapon)
+        /// <summary>
+        /// Initializes this <see cref="HarpoonBullet"/>.
+        /// </summary>
+        /// <param name="damage">Bullet Damage.</param>
+        /// <param name="weapon">Associated <see cref="HarpoonWeapon"/>.</param>
+        public void Init(float damage, HarpoonWeapon weapon)
         {
-            base.Init(damage, speed);
+            base.Init(damage, 0);
             _harpoonWeapon = weapon;
         }
 

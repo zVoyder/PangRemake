@@ -18,6 +18,9 @@ namespace PangRemake.Player
 
         public event Action OnGeneralShoot;
 
+        /// <summary>
+        /// Initializes this <see cref="PlayerShooting"/>.
+        /// </summary>
         public void Init()
         {
             ChangeWeaponToDefault();
@@ -33,6 +36,10 @@ namespace PangRemake.Player
             InputManager.s_Inputs.Player.Shoot.started -= Shoot;
         }
 
+        /// <summary>
+        /// Changes Weapon by its key.
+        /// </summary>
+        /// <param name="weaponKey">Weapon key of the <see cref="WeaponBase"/> to use.</param>
         public void ChangeWeapon(string weaponKey)
         {
             if (!_weapons[weaponKey])
@@ -42,11 +49,17 @@ namespace PangRemake.Player
             CurrentWeapon.Init();
         }
 
+        /// <summary>
+        /// Changes <see cref="WeaponBase"/> with the assigned default one.
+        /// </summary>
         private void ChangeWeaponToDefault()
         {
             ChangeWeapon(_defaultWeaponKey);
         }
 
+        /// <summary>
+        /// Shoots with the current equipped <see cref="WeaponBase"/>.
+        /// </summary>
         private void Shoot(UnityEngine.InputSystem.InputAction.CallbackContext obj)
         {
             if (!CurrentWeapon.IsShooting)

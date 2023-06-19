@@ -36,6 +36,9 @@
         public event Action OnShoot;
         public event Action OnAmmoFinished;
 
+        /// <summary>
+        /// Initializes this <see cref="WeaponBase"/>.
+        /// </summary>
         public virtual void Init()
         {
             CurrentAmmunition = StartingAmmunition;
@@ -47,6 +50,9 @@
             }
         }
 
+        /// <summary>
+        /// Shoots with this <see cref="WeaponBase"/>.
+        /// </summary>
         public virtual void PullTrigger()
         {
             if (HasAmmo && !IsShooting)
@@ -56,6 +62,10 @@
             }
         }
 
+        /// <summary>
+        /// Adds Ammunition.
+        /// </summary>
+        /// <param name="ammoToAdd">Ammo quantity to add.</param>
         public virtual void AddAmmunition(float ammoToAdd)
         {
             CurrentAmmunition += ammoToAdd;
@@ -64,10 +74,16 @@
                 CurrentAmmunition = MaxAmmunition;
         }
 
+        /// <summary>
+        /// On Generation of the bullet.
+        /// </summary>
         protected virtual void BulletGeneration()
         {
         }
 
+        /// <summary>
+        /// Shooting Coroutine.
+        /// </summary>
         private IEnumerator ShootingRoutine()
         {
             BulletGeneration();

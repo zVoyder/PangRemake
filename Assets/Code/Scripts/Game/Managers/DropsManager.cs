@@ -37,12 +37,19 @@
             StopDrop();
         }
 
+        /// <summary>
+        /// Drops a <see cref="WeaponPickup"/> on a <see cref="BalloonBase"/>.
+        /// </summary>
+        /// <param name="balloon"><see cref="BalloonBase"/> where to drop the weapon.</param>
         private void DropWeapon(BalloonBase balloon)
         {
             if(_weaponDropChance >= Random.Range(0, 101))
                 WeaponPickupsFactory.CreateRandomWeaponPickup().transform.SetPosition(balloon.transform.position);
         }
 
+        /// <summary>
+        /// Drops a <see cref="FruitPickup"/> in a random position.
+        /// </summary>
         private void DropFruit()
         {
             if (_fruitDropChance > Random.Range(0, 101))
@@ -53,6 +60,9 @@
             }
         }
 
+        /// <summary>
+        /// Stops the <see cref="FruitPickup"/> drops.
+        /// </summary>
         private void StopDrop()
         {
             CancelInvoke();

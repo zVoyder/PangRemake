@@ -6,6 +6,10 @@
 
     public static class BulletsFactory
     {
+        /// <summary>
+        /// Creates a <see cref="HarpoonBullet"/>.
+        /// </summary>
+        /// <returns>Created <see cref="HarpoonBullet"/>.</returns>
         public static HarpoonBullet CreateHarpoonBullet()
         {
             GameManager.Instance.PoolsManager.Pools[Constants.Pools.s_HarpoonsPool].Get().
@@ -13,6 +17,10 @@
             return bullet;
         }
 
+        /// <summary>
+        /// Creates a <see cref="HarpooRifleBulletBullet"/>.
+        /// </summary>
+        /// <returns>Created <see cref="RifleBullet"/>.</returns>
         public static RifleBullet CreateRifleBullet()
         {
             GameManager.Instance.PoolsManager.Pools[Constants.Pools.s_RifleBulletPool].Get().

@@ -25,6 +25,9 @@ namespace PangRemake.Menu
             InputManager.s_Inputs.Menu.StartGame.started -= SwitchScene;
         }
 
+        /// <summary>
+        /// Switches scene via <see cref="VUDK.Generic.Utility.SwitchScene"/>.
+        /// </summary>
         private void SwitchScene(UnityEngine.InputSystem.InputAction.CallbackContext obj)
         {
             _sceneChanger.ChangeScene(1);

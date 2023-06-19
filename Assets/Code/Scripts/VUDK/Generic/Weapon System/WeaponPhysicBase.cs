@@ -31,6 +31,11 @@ namespace VUDK.Generic.WeaponSystem
             }
         }
 
+        /// <summary>
+        /// Spawns the bullet in a barrel transform position.
+        /// </summary>
+        /// <param name="barrel">Barrel's <see cref="Transform"/>.</param>
+        /// <returns>Spawned Bullet.</returns>
         protected virtual GameObject SpawnBullet(Transform barrel)
         {
             GameObject goBull = CreateBullet();
@@ -49,6 +54,10 @@ namespace VUDK.Generic.WeaponSystem
             return goBull;
         }
 
+        /// <summary>
+        /// Creates the bullets.
+        /// </summary>
+        /// <returns>Created Bullet.</returns>
         protected virtual GameObject CreateBullet()
         {
             return GameManager.Instance.PoolsManager.Pools["Bullet"].Get();

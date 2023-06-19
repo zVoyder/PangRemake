@@ -50,6 +50,11 @@ namespace PangRemake.Managers
             EventManager.Instance.RemoveListener(EventKeys.s_OnVictory, () => PlayClip(_victoryClip, _musicSource));
         }
 
+        /// <summary>
+        /// Plays a clip in an <see cref="AudioSource"/>.
+        /// </summary>
+        /// <param name="clip"><see cref="AudioClip"/> to play.</param>
+        /// <param name="source"><see cref="AudioSource"/> where to play the clip in.</param>
         private void PlayClip(AudioClip clip, AudioSource source)
         {
             source.clip = clip;

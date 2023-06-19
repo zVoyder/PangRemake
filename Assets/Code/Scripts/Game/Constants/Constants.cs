@@ -5,7 +5,6 @@ namespace PangRemake.Constants
         public static string s_PlayerMovement = "horizontal";
         public static string s_PlayerShoot = "shoot";
         public static string s_PlayerDeath = "death";
-
         public static string s_BalloonExplosion = "explode";
     }
 
@@ -13,11 +12,9 @@ namespace PangRemake.Constants
     {
         public static string s_HarpoonsPool = "HarpoonBullet";
         public static string s_RifleBulletPool = "RifleBullet";
-
         public static string s_HarpoonPickup = "HarpoonPickup";
         public static string s_RiflePickup = "RiflePickup";
         public static string s_FruitPickup = "FruitPickup";
-
         public static string s_BigBalloonsPool = "BigBalloon";
         public static string s_MediumBalloonsPool = "MediumBalloon";
         public static string s_SmallBalloonsPool = "SmallBalloon";
